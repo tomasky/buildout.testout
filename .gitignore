@@ -5,3 +5,5 @@ eggs
 parts
 .installed.cf
 .installed.cfg
+src/core.jet.egg-info
+src/core/jet.egg-info

@@ -1,3 +1,0 @@
-
-[console_scripts]
-myscript = core.jet.somes:say
