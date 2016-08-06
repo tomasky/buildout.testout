@@ -1,0 +1,14 @@
+Metadata-Version: 1.1
+Name: jet
+Version: 0.5
+Summary: some desc
+Home-page: UNKNOWN
+Author: wooz
+Author-email: UNKNOWN
+License: MIT
+Description: UNKNOWN
+Keywords: extension versions
+Platform: UNKNOWN
+Classifier: Framework :: Buildout
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 2.7

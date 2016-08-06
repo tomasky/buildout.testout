@@ -1,0 +1,11 @@
+setup.py
+jet/__init__.py
+jet/somes.py
+jet/tests.py
+jet.egg-info/PKG-INFO
+jet.egg-info/SOURCES.txt
+jet.egg-info/dependency_links.txt
+jet.egg-info/namespace_packages.txt
+jet.egg-info/not-zip-safe
+jet.egg-info/requires.txt
+jet.egg-info/top_level.txt
